@@ -1,0 +1,12 @@
+bin\Debug\qunatumkey.exe
+bin\Debug\qunatumkey.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\qunatumkey.Properties.Resources.resources
+obj\Debug\qunatumkey.csproj.GenerateResource.Cache
+obj\Debug\qunatumkey.exe
+obj\Debug\qunatumkey.pdb
+obj\Debug\qunatumkey.Login.resources
+obj\Debug\qunatumkey.Main.resources
+obj\Debug\qunatumkey.Register.resources
+obj\Debug\qunatumkey.SendData.resources
+bin\Debug\Cryptopad.pdb

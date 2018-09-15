@@ -1,0 +1,14 @@
+C:\Coding\Trustcenter\Trustcenter\obj\Debug\Trustcenter.exe
+C:\Coding\Trustcenter\Trustcenter\obj\Debug\Trustcenter.pdb
+C:\Coding\Trustcenter\Trustcenter\bin\Debug\Trustcenter.exe
+C:\Coding\Trustcenter\Trustcenter\bin\Debug\Trustcenter.pdb
+C:\Coding\Trustcenter\Trustcenter\obj\Debug\Trustcenter.csprojResolveAssemblyReference.cache
+C:\Trustcenter\Trustcenter\bin\Debug\Trustcenter.exe.config
+C:\Trustcenter\Trustcenter\obj\Debug\Trustcenter.exe
+C:\Trustcenter\Trustcenter\obj\Debug\Trustcenter.pdb
+C:\Trustcenter\Trustcenter\bin\Debug\Trustcenter.exe
+C:\Trustcenter\Trustcenter\bin\Debug\Trustcenter.pdb
+C:\Trustcenter\Trustcenter\obj\Debug\Trustcenter.csprojResolveAssemblyReference.cache
+E:\intern\Coding\Trustcenter\Trustcenter\bin\Debug\Trustcenter.exe.config
+E:\intern\Coding\Trustcenter\Trustcenter\obj\Debug\Trustcenter.exe
+E:\intern\Coding\Trustcenter\Trustcenter\obj\Debug\Trustcenter.pdb

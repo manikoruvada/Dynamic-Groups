@@ -1,0 +1,5 @@
+bin\Debug\Trustcenter.exe
+bin\Debug\Trustcenter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Trustcenter.exe
+obj\Debug\Trustcenter.pdb

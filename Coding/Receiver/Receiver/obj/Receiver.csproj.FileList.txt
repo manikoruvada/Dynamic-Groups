@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Receiver.Login.resources
+obj\Debug\Receiver.Main.resources
+obj\Debug\Receiver.Properties.Resources.resources
+obj\Debug\Receiver.Register.resources
+obj\Debug\Receiver.csproj.GenerateResource.Cache
+bin\Debug\Receiver.exe
+bin\Debug\Receiver.pdb
+obj\Debug\Receiver.exe
+obj\Debug\Receiver.pdb
+obj\Debug\Receiver.ReceiveData.resources
+bin\Debug\Cryptopad.pdb
